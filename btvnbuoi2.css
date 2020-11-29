@@ -1,0 +1,7 @@
+#mina{
+    display:flex;
+    justify-content: space-around;
+}
+.name{
+    color: rgb(69, 6, 94);
+}
